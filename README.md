@@ -1,4 +1,4 @@
-# Telco Customer Churn Prediction
+## Telco Customer Churn Prediction
 
 This project aims to predict customer churn for a telecommunications company. Using historical customer data such as services used, account information, and demographic data, we train machine learning models to identify customers who are likely to stop using the company's services.
 
